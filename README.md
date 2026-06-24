@@ -3,7 +3,23 @@
 By: [Connor Baumler](https://ctbaumler.github.io/) `<baumler@cs.umd.edu>`, Calvin Bao, Huy Nghiem, Xinchen Yang, Marine Carpuat, and Hal Daumé III
 
 ```
-To appear at ACL 26. Bibtex will be updated here when available.
+@inproceedings{baumler-etal-2026-make,
+    title = "Can You Make It Sound Like You? Post-Editing {LLM}-Generated Text for Personal Style",
+    author = "Baumler, Connor  and
+      Bao, Calvin  and
+      Nghiem, Huy  and
+      Yang, Xinchen  and
+      Carpuat, Marine  and
+      Daum{\'e} III, Hal",
+    booktitle = "Proceedings of the 64th Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.acl-long.2030/",
+    pages = "43867--43895",
+    ISBN = "979-8-89176-390-6",
+}
 ```
 
 This repository contains writing logs generated in our study about post-editing LLM-generate text to express personal style. 
